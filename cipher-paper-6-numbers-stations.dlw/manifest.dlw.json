@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-CIPHER_PAPER_6_NUMBERS_STATIONS",
+  "name": "PAPER VI — NUMBERS STATIONS · THE LAST CIPHER · CIP",
+  "universe": "EXEREÚNESIS",
+  "moniker": "⟦PAPER VI — NUMBERS STATIONS · THE LAST CIPHER · CIP:cipher-paper-6-numbers-stations:dff6ae⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "dff6aec20ef14af6cddb05eeafaed04d149ddbf779d165c3e4d2af034d75dc2c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
